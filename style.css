@@ -1,0 +1,94 @@
+
+.main{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+.year{
+  padding-left: 250px;
+text-align: center;
+}
+td{
+  padding-right:  20px;
+}
+
+.objective{
+  width: 70%;
+  margin: 0 auto 0 auto;
+}
+  .education{
+
+    width: 63%;
+    margin: 0 auto 0 auto;
+}
+.inter{
+  width: 70%;
+  margin: 0 auto 0 auto;
+}
+.Projects{
+  width: 85%;
+  margin: 0 auto 0 auto;
+}
+.pr{
+  width: 70%;
+  margin: 0 auto 0 auto;
+}
+
+body{
+  font-size: 1.2rem;
+  background-color: #EAF9F6;
+}
+.skills{
+  font-weight: bold;
+  text-align: center;
+
+}
+.programming{
+  height: 350px;
+  width: 33%;
+  position:relative;
+
+  display: inline-block;
+
+}
+.info{
+  font-style: italic;
+}
+
+.Lang{
+  height: 350px;
+  width: 30%;
+  position:relative;
+  display: inline-block;
+
+
+}
+.ComputerSkills{
+  height: 350px;
+  width: 30%;
+  position:relative;
+
+  display: inline-block;
+
+}
+.foot{
+  width: 30%;
+
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  table{
+    width: 100%;
+  }
+}
+hr{
+  border: dotted #EAB6F6 6px;
+  border-bottom: none;
+  width: 15%;
+}
+
+* {
+  box-sizing: border-box;
+}
